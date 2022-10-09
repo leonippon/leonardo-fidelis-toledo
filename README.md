@@ -10,10 +10,15 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-> - Trabalho:
->   - Atual: 📈 Econonmista / 📝Analista Financeiro
->   - 🚀Futuro: 📈 Economista / 📊Cientista de Dados / 🖥️Programador Back-end
+> - 🎓Formação:
+>   - Graduação: 📚 Interdisciplinar em Ciências e Humanidades.
+>   - Graduação: 📈 Ciências Econômicas.
+>   - Especialização: 📊Ciência de Dados.
 
-> - Idiomas:
->   - 📚Estudando: English / 日本語 / 中文(普通话/广东话)
->   - Interessantes: Español / 한국인
+> - 💼Trabalho:
+>   - 💼Atual: 📝Analista Financeiro.
+>   - 🚀Futuro: 📊Cientista de Dados / 🖥️Programador Back-end.
+
+> - 🔤Idiomas:
+>   - 📖Estudando: 🇺🇸English / 🇯🇵日本語 / 🇨🇳中文(普通话/广东话).
+>   - Interessantes: 🇪🇸Español / 🇰🇷한국인.
