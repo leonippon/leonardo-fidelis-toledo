@@ -20,5 +20,4 @@
 >   - 🚀Futuro: 📊Cientista de Dados / 🖥️Programador Back-end.
 
 > - 🔤Idiomas:
->   - 📖Estudando: 🇺🇸English / 🇯🇵日本語 / 🇨🇳中文(普通话/广东话).
->   - Interessantes: 🇪🇸Español / 🇰🇷한국인.
+>   - 📖Idiomas: 🇧🇷Brazilian Portuguese / 🇺🇸English.
