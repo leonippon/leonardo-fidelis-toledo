@@ -1,4 +1,4 @@
-### Leonardo Fidelis Toledo
+### Leonardo Fidelis Toledo [CV](https://leonippon.github.io)
 ---
 [ENGLISH](https://github.com/leonippon/leonardo-fidelis-toledo/README.en.md)
 
@@ -14,7 +14,7 @@
 > - Ancord: Agente Autônomo de Investimentos (2021)
 
 ### 💼Trabalho:
-> - 💼Atual: 📝Analista Financeiro
+> - 💼Atual: 📝Assessor de Investimentos
 > - 🚀Objetivo: 📊Cientista de Dados / 🖥️Programador Back-end
 
 ### 📖Idiomas:
