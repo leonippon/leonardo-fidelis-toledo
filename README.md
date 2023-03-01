@@ -8,7 +8,7 @@
 > - Especialização: 📊Ciência de Dados (2025)
 
 ### Cursos
-> - [Alura](https://github.com/leonippon/leonippon/ALURA.md)
+> - [Alura](https://github.com/leonippon/leonippon/blob/main/ALURA.md)
 
 ### Certificações
 > - Ancord: Agente Autônomo de Investimentos (2021)
