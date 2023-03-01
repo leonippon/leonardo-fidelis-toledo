@@ -8,7 +8,7 @@
 > - Especialização: 📊Ciência de Dados (2025)
 
 ### Cursos
-> - [Alura: BackEnd e Ciência de Dados](https://github.com/leonippon/leonardo-fidelis-toledo/ALURA.md)
+> - [Alura](https://github.com/leonippon/leonardo-fidelis-toledo/ALURA.md)
 
 ### Certificações
 > - Ancord: Agente Autônomo de Investimentos (2021)
