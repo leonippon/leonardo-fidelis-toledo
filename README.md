@@ -15,7 +15,7 @@
 
 ### 💼Trabalho:
 > - 💼Atual: 📝Assessor de Investimentos
-> - 🚀Objetivo: 📊Cientista de Dados / 🖥️Programador Back-end
+> - 🚀Objetivo: 📊Cientista de Dados / 🖥️Programador
 
 ### 📖Idiomas:
 > - 🇧🇷Brazilian Portuguese (Nativo)
