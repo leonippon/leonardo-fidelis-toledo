@@ -14,7 +14,7 @@
 > - Ancord: Agente Autônomo de Investimentos (2021)
 
 ### 💼Trabalho:
-> - 💼Atual: 📝Assessor de Investimentos
+> - 💼Atual: 📝Assessor de Investimentos / 🖥️Programador e Game Designer
 > - 🚀Objetivo: 📊Cientista de Dados / 🖥️Programador
 
 ### 📖Idiomas:
